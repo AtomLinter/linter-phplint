@@ -4,7 +4,7 @@
   "activationEvents": [],
   "main": "./lib/init",
   "version": "0.0.6",
-  "description": "Lint PHP on the fly, using phplint",
+  "description": "Lint PHP on the fly, using phplint (not yet ready)",
   "repository": "https://github.com/AtomLinter/linter-phplint",
   "license": "MIT",
   "engines": {
