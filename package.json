@@ -2,7 +2,7 @@
   "name": "linter-phplint",
   "linter-package": true,
   "main": "./lib/init",
-  "version": "0.0.7",
+  "version": "0.1.0",
   "description": "Lint PHP on the fly, using phplint (not yet ready)",
   "repository": "https://github.com/AtomLinter/linter-phplint",
   "license": "MIT",
